@@ -1,0 +1,28 @@
+{
+  "list-food": [
+    {
+      "id": 1,
+      "nome": "X bacon"
+    },
+    {
+      "id": 2,
+      "nome": "Feijão"
+    },
+    {
+      "nome": "Ovos",
+      "id": 3
+    },
+    {
+      "nome": "baconzitos",
+      "id": 4
+    },
+    {
+      "nome": "biscoito",
+      "id": 5
+    },
+    {
+      "nome": "farofa",
+      "id": 6
+    }
+  ]
+}
